@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 👋 Hi, I’m @Lukasz-Grzegorzewski
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Java/SpringBoot3
+- 🧳 My main skills: React, TypeScript
+- 💞️ I’m looking to collaborate on any projects
+- 📫 Portfolio: luc-dev.com
+- 👀 linkedin.com/in/grzegorzewski-lukasz/
 
 <!--
 **Lukasz-Grzegorzewski/Lukasz-Grzegorzewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
